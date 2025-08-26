@@ -12,9 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/vijay-kumar-mahto-872901298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-kumar-mahto-872901298" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vijaykumarmahto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijaykumarmahto" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vijay_kumar_mahto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijay_kumar_mahto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijay-kumarmahto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-kumar-mahto-872901298" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vijay-kumarmahto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijay_kumar_mahto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
